@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm rndm_access and I develop software.
+
+### Resume
+
+**[View My Resume](https://rndmaccess.github.io/digital-resume/)**
+
 <!--
 **rndmaccess/rndmaccess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
